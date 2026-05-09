@@ -1,6 +1,6 @@
 
 <div align="center">
-
+  
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:2d79c7&height=200&section=header&text=Telegram%20Phone%20Checker&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Check%20if%20any%20phone%20number%20is%20registered%20on%20Telegram%20%7C%20Python%20%7C%202025&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
