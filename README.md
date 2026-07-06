@@ -428,6 +428,7 @@ The `force_sms=True` parameter is **deprecated and non-functional**.
 ---
 # Damo
 <img width="2368" height="968" alt="Screenshot 2026-03-03 013132" src="https://github.com/user-attachments/assets/f6aab4aa-7473-4aba-bda9-168ccd82433f" />
+<img width="1893" height="876" alt="image" src="https://github.com/user-attachments/assets/c0a70d85-f998-42d2-92ed-e80d1e266261" />
 
 
 ## 👨‍💻 Author
