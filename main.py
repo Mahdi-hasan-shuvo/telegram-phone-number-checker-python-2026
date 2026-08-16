@@ -1,2 +1,2 @@
 print("Paid")
-# any bot needs inbox me
+# Any bot needs to inbox me
